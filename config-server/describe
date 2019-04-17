@@ -1,0 +1,7 @@
+1.构建github
+https://github.com/lifanggh/spring_cloud_config
+2.创建项目config-server
+修改pom
+配置文件
+主类
+启动程序
